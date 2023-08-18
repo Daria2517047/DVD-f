@@ -5,8 +5,22 @@
 
 A Shitty Fork Of the engine that was originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
-# Disclaimer 
-this was not made as something to replacement to orignal Psych Engine as it is still good go check it out [Orignal Psych engine](https://github.com/ShadowMario/FNF-PsychEngine)
+# Disclaimer
+
+This engine is dedicated to enhancing the gameplay experience of the popular game "Friday Night Funkin'" by expanding and enriching the existing "Psych Engine". It's important to clarify that this project is designed as an extension of the original engine and is not intended to replace it.
+
+The original "Psych Engine" was developed by Shadow Mario and Riveren You can find the source code for Psych Engine [here](https://github.com/ShadowMario/FNF-PsychEngine). The base game, "Friday Night Funkin'," was created by Ninjamuffin99, Phantom Arcade, Evilsk8r, and Kawai Sprite. You can find the source code for the game [here](https://github.com/FunkinCrew/Funkin).
+
+**User Note:** This project aims to provide an extended gameplay experience while respecting the official "Psych Engine." To enjoy the unaltered original experience, we encourage you to support the original developers.
+
+By using this project, you acknowledge its role in expanding gameplay capabilities, and we hold no liability for potential misconceptions or misinterpretations.
+
+- [Your Name/Project Team]
+- [Date]
+
+
+
+By engaging with this project, users acknowledge its expansion purpose, and we assume no liability for any misunderstandings.
 
 
 ## Installation:
