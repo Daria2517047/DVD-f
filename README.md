@@ -3,6 +3,8 @@
 ![Last commit](https://img.shields.io/github/last-commit/bananaTiko/FNF-PsychEngineForever2.0?logo=github)
 ![License](https://img.shields.io/github/license/bananaTiko/FNF-PsychEngineForever2.0?logo=github)
 
+disclaimer this was not made as something to replacement to orignal Psych Engine as it is still good go check it out [Orignal Psych engine](https://github.com/ShadowMario/FNF-PsychEngine)
+
 A Shitty Fork Of the engine that was originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
