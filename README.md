@@ -13,16 +13,6 @@ The original Psych Engine was developed by Shadow Mario and Riveren You can find
 
 **User Note:** This project aims to provide an extended gameplay experience while respecting the official "Psych Engine." To enjoy the unaltered original experience, we encourage you to support the original developers.
 
-By using this project, you acknowledge its role in expanding gameplay capabilities, and we hold no liability for potential misconceptions or misinterpretations.
-
-- [Your Name/Project Team]
-- [Date]
-
-
-
-By engaging with this project, users acknowledge its expansion purpose, and we assume no liability for any misunderstandings.
-
-
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), Don't stop using 4.1.5, it misses With some stuff.
 
