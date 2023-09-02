@@ -1,0 +1,1 @@
+Add a search input text in freeplay
