@@ -48,6 +48,8 @@ class Main extends Sprite
 	{
 		super();
 
+		meta.data.windows.WindowsAPI.setDarkMode(true);
+
 		if (stage != null)
 		{
 			init();
