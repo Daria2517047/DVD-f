@@ -121,7 +121,7 @@ class PauseSubState extends MusicBeatSubstate
 		case '':
 		composerTxt.text = 'No Composer Name';
 		default:
-		composerTxt.text = 'Kawai Sprite';
+		composerTxt.text = 'Kawai Sprite'; //EDIT THIS IF YOUR MAKING A MOD
 		}
 
 		blueballedTxt.alpha = 0;
