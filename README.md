@@ -51,7 +51,7 @@ _____________________________________
 * Nebula the Zorua - LUA JIT Fork and some Lua reworks
 _____________________________________
 # Psych Engine Forever 2.0 Features
- * None Right Now
+ * None as of right now
 _____________________________________
 # Psych Engine Features
 
