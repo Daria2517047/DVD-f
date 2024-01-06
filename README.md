@@ -11,7 +11,8 @@ This engine is dedicated to enhancing the gameplay experience of the popular gam
 
 The original Psych Engine was developed by Shadow Mario and Riveren You can find the source code for Psych Engine [here](https://github.com/ShadowMario/FNF-PsychEngine). The base game, Friday Night Funkin' was created by Ninjamuffin99, Phantom Arcade, Evilsk8r, and Kawai Sprite. You can find the source code for the Friday Night Funkin [here](https://github.com/FunkinCrew/Funkin).
 
-**User Note:** This project aims to provide an extended gameplay experience while respecting the official "Psych Engine." To enjoy the unaltered original experience, we encourage you to support the original developers.
+**User Note:** This project aims to provide an extended gameplay experience while respecting Psych Engine. To enjoy the unaltered original experience, we encourage you to support the original developers and the
+devs of Psych engine. 
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), Don't stop using 4.1.5, it misses With some stuff.
